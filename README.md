@@ -1,2 +1,5 @@
 # Dry-Bean-Classification
-Explore our GitHub repo for a detailed journey through dry bean classification. We've covered data exploration, feature engineering, model selection, training, optimization, and even deployed the model with Streamlit. Perfect for machine learning enthusiasts and those seeking practical classification insights.
+Dataset taken from UCI machine learning repository.
+here in this dataset data exploration and pre-processing is done.
+feature engineering, model selection, model training and evaluation and model optimization is done.
+The developed model has been deployed using Streamlit.
